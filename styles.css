@@ -7,7 +7,7 @@ body{
 /*DIV PART 01*/
 
 .div-item01_linegroud{
-    background-image: url("IMAGES/header.jpg");
+    background-image: url("Assets/header.jpg");
     background-attachment: fixed;
     background-size: cover;
     width: 1560px;
@@ -69,7 +69,7 @@ hr[name*="root"]{
 /*div mayor TOTY part 02*/
 
 #menu-part_02-TOT{
-    background-image: url(IMAGES/partTwo.jpg);
+    background-image: url(Assets/partTwo.jpg);
     background-attachment: fixed;
     background-position: right;
     background-repeat: repeat-y;
@@ -352,7 +352,7 @@ span[name$="color2"]:hover{
 /*Div totty part 04*/
 
 #part_04_div_box{
-    background-image: url(IMAGES/couple.jpg);
+    background-image: url(Assets/couple.jpg);
     background-size: cover;
     width: 1570px;
     height: 800px;
