@@ -16,7 +16,7 @@ _The snake was planted in Bathilda Bagshot's animated corpse to wait to see if H
 ![img](https://github.com/juan1305/0.3-PAGINA-BLACK/blob/master/Assets/The%20attack%20on%20Godric's.gif)
 
 ## Author(s) ✒️
-- **Juan Giraldo** - _Initial Work, Documentation_ [Trex_Codes](https://github.com/Trex-Codes)
+- _Initial Work, Documentation_ [Trex-Codes](https://github.com/Trex-Codes)
 
 ## Contributions 🖇️
 _for now I do not believe that there is a possibility of modifying this project so that it will remain "down" until a next amendment. any modification is possible as it is openSource_ 💬
