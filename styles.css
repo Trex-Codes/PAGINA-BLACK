@@ -1,11 +1,8 @@
-/*BODY*/
-
 body{
     background-color: black;
 }
 
 /*DIV PART 01*/
-
 .div-item01_linegroud{
     background-image: url("Assets/header.jpg");
     background-attachment: fixed;
@@ -16,7 +13,6 @@ body{
 }
 
 /*Article div part 01 */
-
 #content-part_01{
     background: linear-gradient(#000000, #000000);
     width: 100%;
@@ -24,8 +20,8 @@ body{
     position: relative;
     top: 430px;
 }
-/*Line gradient content part 01*/
 
+/*Line gradient content part 01*/
 hr[name*="toty"]{
     border: 1px solid #ffffff;
     width: 100px;
@@ -43,7 +39,6 @@ hr[name*="root"]{
 }
 
 /*TITLE LINEAR GRADIENT PART O1 */
-
 #title-div_item{
     color: white;
     position: relative;
@@ -54,7 +49,6 @@ hr[name*="root"]{
 }
 
 /*COMMENT TITTLE line gradient*/
-
 #comment-linear_title{
     color: white;
     font-family: 'Noto serif', serif;
@@ -67,7 +61,6 @@ hr[name*="root"]{
 /*PART 02 */
 
 /*div mayor TOTY part 02*/
-
 #menu-part_02-TOT{
     background-image: url(Assets/partTwo.jpg);
     background-attachment: fixed;
@@ -78,7 +71,6 @@ hr[name*="root"]{
 }
 
 /*part article 01 left img recort*/
-
 .part-01_post-left-img{
     height: 730px;
     width: 150px;
@@ -86,7 +78,6 @@ hr[name*="root"]{
 }
 
 /*IMG part left recort*/
-
 #img-post_left{
     width: 150px;
     background-position: center;
@@ -96,7 +87,6 @@ hr[name*="root"]{
 }
 
 /*Part article 02 middle content letters*/
-
 .part-02_post-middle-letters{
     background-color:black; 
     width:420px;
@@ -111,7 +101,6 @@ hr[name*="root"]{
 }
 
 /*line 01 text content middle*/
-
 #line-1{
     border: 1px solid white;
     width: 60%;
@@ -120,7 +109,6 @@ hr[name*="root"]{
 }
 
 /*line 01 text content middle*/
-
 #line-2{
     border: 1px solid white;
     width: 60%;
@@ -129,7 +117,6 @@ hr[name*="root"]{
 }
 
 /*Text content part in the middle*/
-
 .text-sect-2{
    color: white;
     font-family: serif;
@@ -142,7 +129,6 @@ hr[name*="root"]{
 } 
 
 /*Tittle content part in the middle*/
-
 .title-sect-2{
     font-family: serif;
     text-align: center;
@@ -163,7 +149,6 @@ hr[name*="root"]{
 }
 
 /* Text H2 comment title article part 03 */
-
 #title-h2_article-persons-content{
     font-family: serif;
     color: white;
@@ -175,13 +160,11 @@ hr[name*="root"]{
 }
 
 /*hr before tittle H2 article 01 */
-
 .line-sub{
     border:1px solid white;
 }
 
 /*Article part 01 */
-
 .part03_art-tric01{
     background: black;
     width: 1570px;
@@ -189,7 +172,6 @@ hr[name*="root"]{
 }
 
 /*Article 01 -> nav totty linear gradient*/
-
 #totty-person_linear{
     background-color: black;
     height:230px;
@@ -212,7 +194,6 @@ hr[name*="root"]{
 }
 
 /*Img person 01 */
-
 img[name$="img"]{
     width: 170px;
     height: 170px;
@@ -221,7 +202,6 @@ img[name$="img"]{
 }
 
 /*Text person 01 */
-
 p[name$="text"]{
     color: white;
     font-family: serif;
@@ -243,7 +223,6 @@ p[name$="text"]{
 }
 
 /*Img person 02 */
-
 img[name$="img2"]{
     width: 170px;
     height: 170px;
@@ -251,7 +230,6 @@ img[name$="img2"]{
 }
 
 /*Text person 02*/
-
 p[name$="text2"]{
     color: white;
     font-family: serif;
@@ -273,7 +251,6 @@ p[name$="text2"]{
 }
 
 /*Img person 03 */
-
 img[name$="img3"]{
     width: 170px;
     height:170px;
@@ -281,7 +258,6 @@ img[name$="img3"]{
 }
 
 /*Text person 03 */
-
 p[name$="text3"]{
     color: white;
     font-family: serif;
@@ -303,7 +279,6 @@ p[name$="text3"]{
 }
 
 /*Img person 04*/
-
 img[name$="img4"]{
     width: 170px;
     height: 170px;
@@ -311,7 +286,6 @@ img[name$="img4"]{
 }
 
 /*Text person 04*/
-
 p[name$="text4"]{
     color: white;
     font-family: serif;
@@ -350,7 +324,6 @@ span[name$="color2"]:hover{
 /*PART 04 */
 
 /*Div totty part 04*/
-
 #part_04_div_box{
     background-image: url(Assets/couple.jpg);
     background-size: cover;
@@ -359,7 +332,6 @@ span[name$="color2"]:hover{
 }
 
 /*Article part 01 part 04*/
-
 .part_01_content-infopart4{
     background-color: black;
     width: 630px;
@@ -371,7 +343,6 @@ span[name$="color2"]:hover{
 }
 
 /*img div left */
-
 #img-part-left_04{
     width: 380px;
     height: 250px;
@@ -381,7 +352,6 @@ span[name$="color2"]:hover{
 }
 
 /*Title div left */
-
 #title-item_part_04{
     color: white;
     font-size: 17px;
@@ -392,7 +362,6 @@ span[name$="color2"]:hover{
 }
 
 /*text div left*/
-
 #text-part_04-items{
     color: white;
     font-size: 16px;
