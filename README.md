@@ -1,4 +1,4 @@
-# 0.3-PAGINA-BLACK
+# PAGINA-BLACK
 ## Harry Potter illustration mock-up
 ## Starting 🚉
 _the main idea of the project is to build on the **Harry Potter** saga where it explains its characters and some ideas that
